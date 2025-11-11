@@ -8,7 +8,7 @@ Hi 我們是南台資安社群 (STUST Cybersecurity Community) <br><br>
 人才培育：培養更多資安領域的專業人才，提升校內資安實力<br>
 競賽參與：組隊參加各類資安競賽（CTF、黑客松等），累積實戰經驗<br><br>
 🚀 主要活動 (Activities)
-CTF (Capture The Flag) 解題練習與討論<br>
+CTF 解題練習與討論<br>
 資安技術分享會<br>
 Writeup 撰寫與交流<br>
 資安競賽組隊參與<br>
