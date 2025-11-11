@@ -10,7 +10,6 @@ Hi 我們是南台資安社群 (STUST Cybersecurity Community) <br><br>
 🚀 主要活動 (Activities)
 CTF 解題練習與討論<br>
 資安技術分享會<br>
-Writeup 撰寫與交流<br>
 資安競賽組隊參與<br>
 工具與技術研究<br><br>
 👥 加入我們 (Join Us)<br>
